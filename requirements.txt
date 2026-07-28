@@ -1,0 +1,17 @@
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Data Visualization
+matplotlib>=3.8.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Excel Support
+openpyxl>=3.1.0
+
+# SQL Connectivity (optional)
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
