@@ -66,7 +66,8 @@ The primary objectives of this project are to:
 
 ---
 
-# 🏗️ Project Architecture
+# 🏗️ Project Architecture <img width="1536" height="1024" alt="er" src="https://github.com/user-attachments/assets/f0a960bf-4a7a-460a-91f8-4268646cdffd" />
+
 
 ```text
                     Raw Dataset
@@ -426,7 +427,8 @@ This dashboard provides a high-level overview of overall business performance.
 
 ### Dashboard Preview
 
-![Dashboard 1](Images/dashboard1.png)
+<img width="1221" height="797" alt="Screenshot 2026-07-28 at 4 30 05 PM" src="https://github.com/user-attachments/assets/6ce36349-aa85-45e8-ab6f-2a5816e29379" />
+
 
 ---
 
@@ -444,7 +446,8 @@ This dashboard focuses on customer behaviour and product performance.
 
 ### Dashboard Preview
 
-![Dashboard 2](Images/dashboard2.png)
+<img width="1237" height="801" alt="Screenshot 2026-07-28 at 4 31 28 PM" src="https://github.com/user-attachments/assets/b3e73d50-020e-4f14-a192-ba7c5850e9ed" />
+
 
 ---
 
@@ -462,7 +465,8 @@ This dashboard evaluates operational efficiency and logistics performance.
 
 ### Dashboard Preview
 
-![Dashboard 3](Images/dashboard3.png)
+<img width="1219" height="791" alt="Screenshot 2026-07-28 at 4 32 01 PM" src="https://github.com/user-attachments/assets/586c65fd-550e-41d8-a8d5-4d94f31bd544" />
+
 
 ---
 
